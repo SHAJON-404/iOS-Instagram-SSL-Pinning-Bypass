@@ -1,5 +1,5 @@
 # 🔐 iOS-Instagram-SSL-Pinning-Bypass
-📡 Intercept Busniess-Suit network traffic on Android device/emulator
+📡 Intercept Instagram networks traffic on iOS device
 
 ## 📌 Latest Tested App Version
 - 🎯 Instagram version: **403.0.0.28.80**

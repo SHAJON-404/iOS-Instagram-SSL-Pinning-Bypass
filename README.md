@@ -2,12 +2,12 @@
 📡 Intercept Instagram network traffic on iOS/iPad OS device.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **429.0.0.33.52**
+- App version: **437.2.0.25.50**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![Instagram iOS](assets/v429.jpg)
+![Instagram iOS](assets/v437.2.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -35,7 +35,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.burbn.instagram</code></td>
-      <td align="center">429.0.0.33.52</td>
+      <td align="center">437.2.0.25.50</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
     </tr>

@@ -2,22 +2,23 @@
 📡 Intercept Instagram network traffic on iOS/iPad OS device.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **437.2.0.25.50**
+- App version: **440.0.0.30.81**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![Instagram iOS](assets/v437.2.jpg)
+![Instagram iOS](assets/v440.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
 2. [Messenger Android](https://github.com/shajon-dev/Messenger-SSL-Pinning-Bypass)
 3. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
 4. [Instagram Android](https://github.com/shajon-dev/Instagram-SSL-Pinning-Bypass)
-5. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
-6. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
-7. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
-8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
+5. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
+6. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
+7. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
+8. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
+9. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 
 ## 📦 For Demo - Download Modified IPA
   - For any issues, contact me on Telegram. Read README.md carefully before use.
@@ -35,7 +36,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.burbn.instagram</code></td>
-      <td align="center">437.2.0.25.50</td>
+      <td align="center">440.0.0.30.81</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
     </tr>
